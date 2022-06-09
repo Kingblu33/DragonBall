@@ -1,0 +1,22 @@
+.mainstart {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .startButton {
+    background-color: #1B1B1B;
+    padding: 10px;
+    font-size: 32px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.logo{
+  position: relative;
+  top: 298px;
+  left: 30px;
+}
+  .startButton:hover{
+    background: #A5A68F;
+  }
+  
